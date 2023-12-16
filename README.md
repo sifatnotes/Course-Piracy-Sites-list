@@ -17,6 +17,7 @@
 
 ## [↑](#contents) Piracy Sites
 
+* [Teamdarkarmy](https://teamdarkarmy.com/)
 * [Online-Courses.Club](https://online-courses.club/)
 * [TutFlix](https://tutflix.org/)
 * [Hide01](https://hide01.ir/) - [Beta](https://beta.hide01.ir/)
